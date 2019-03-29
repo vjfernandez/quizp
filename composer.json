@@ -1,0 +1,15 @@
+{
+    "name": "victor/quiz",
+    "type": "project",
+    "require": {
+        "noahbuscher/macaw": "dev-master"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "vjfernandez",
+            "email": "vjfernandez@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
